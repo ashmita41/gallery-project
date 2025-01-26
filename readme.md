@@ -24,7 +24,7 @@ A simple and elegant gallery showcasing smooth animations and responsive design.
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashmita41/practiceproject.git
+   git clone https://github.com/ashmita41/gallery-project.git
    ```
 2. Open `index.html` in your browser.
 
